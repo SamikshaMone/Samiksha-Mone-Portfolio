@@ -29,8 +29,7 @@ import threejs from "./tech/threejs.svg";
 import firstTestimonial from './Tars Ken.webp';
 import secondTestimonial from './image.webp';
 import thirdTestimonial from './third testimonial.webp';
-import samiksha from "./samiksha.jpeg";
-import accentureLogo from "./AccentureLogo.png"
+import samiksha from "./samiksha.jpeg"
 
 export {
   logo,
@@ -64,6 +63,5 @@ export {
   redux,
   tailwind,
   threejs,
-  samiksha,
-  accentureLogo,
+  samiksha
 };

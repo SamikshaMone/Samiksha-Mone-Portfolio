@@ -30,13 +30,12 @@ import {
   threejs,
   firstTestimonial,
   secondTestimonial,
-  thirdTestimonial,
+  thirdTestimonial
 } from '../assets'
 
 
 // Import Tekisky separately
-import accentureLogo from "../assets/company/accentureLogo";
-
+import accentureLogo from "../assets/company/AccentureLogo.png";
 
 export const navLinks = [
 
